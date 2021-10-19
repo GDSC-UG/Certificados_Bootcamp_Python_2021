@@ -39,10 +39,12 @@ El curso esta enfocado a la iniciación dentro del Lenguaje Python en el cual se
 
 ![Core Team](assets/coreteam.jpg)
 
-## Curso
+## Curso y certificado
 * Revisa la info [aquí](https://gdsc.community.dev/e/m9wxj8/)
 
 * Redes del Club [aquí](https://linktr.ee/gdscguanajuato)
+
+* Descarga tu certificado [aquí](https://github.com/GDSC-UG/Certificados_Bootcamp_Python_2021/tree/main/certificados)
 
 ## Aliados
 
