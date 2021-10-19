@@ -14,7 +14,7 @@ Curso desarrollado por el **Google Developer Student Club** en colaboración con
 | _Josué Julián Herrera Velázquez_        | Asistente                                  |
 | _Victor Enrique Casillas Céspedes_      | Asistente                                  |
 | _Francisco Daniel Alcatará Maciel_      | Asistente                                  |
-| _Leornardo Alejandro Chávez Díaz_       | Asistente                                  |
+| _Leonardo Alejandro Chávez Díaz_       | Asistente                                  |
 | _Fabián Mauricio Zavala Durán_          | Asistente                                  |
 
 
