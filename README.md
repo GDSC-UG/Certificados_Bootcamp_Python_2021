@@ -19,27 +19,30 @@ Curso desarrollado por el **Google Developer Student Club** en colaboración con
 
 
 El curso esta enfocado a la iniciación dentro del Lenguaje Python en el cual se aborda desde temas básicos como:
+
 * Objetos y estructuras de datos
 * Operadores de comparación
 * Métodos y funciones
 * Módulos y paquetes
-* Proyectos y muchos más hasta alcanzar a desarrollar un modelo de Machine Learning y Redes Neuronales sencillas
+* Proyectos y muchos más hasta alcanzar a desarrollar un modelo de Machine Learning y Redes Neuronales sencillas.
+
 ![Presentación](assets/presentación.jpg)
 
 ## Instructor 
 
-Contacto [aquí](https://gdsc.community.dev/u/mjy5a9/#/about)
-Más info [aquí](https://linktr.ee/jalopez_garcia)
+* Contacto [aquí](https://gdsc.community.dev/u/mjy5a9/#/about)
+* Más info [aquí](https://linktr.ee/jalopez_garcia)
+
 ![Contacto](assets/instructor.jpg)
 
 ## Parte de la Comunidad GDSC para la Universidad de Guanajuato
 
-![Comunidad](assets/core_team.jpg)
+![Core Team](assets/coreteam.jpg)
 
 ## Curso
-Revisa la info [aquí](https://gdsc.community.dev/e/m9wxj8/)
+* Revisa la info [aquí](https://gdsc.community.dev/e/m9wxj8/)
 
-Redes del Club [aquí](https://linktr.ee/gdscguanajuato)
+* Redes del Club [aquí](https://linktr.ee/gdscguanajuato)
 
 ## Aliados
 
